@@ -1,0 +1,21 @@
+{
+  "name": "Elad",
+  "authors": [
+    "EladSalti <elad.salti7@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "^2.0.2",
+    "text": "requirejs-text#^2.0.15"
+  }
+}
